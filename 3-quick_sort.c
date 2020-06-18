@@ -1,7 +1,7 @@
 #include "sort.h"
 
 /**
- * quick_sort - quicksort function
+ * quick_sort - sort array using quick sort method
  * @array: the array
  * @size: the size
  */
